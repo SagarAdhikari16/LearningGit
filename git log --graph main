@@ -1,0 +1,41 @@
+[33mcommit ff0281711071b8fa4e2e7935f5131cf460da907c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: LearningGit <adhikarisagar268@gmail.com>
+Date:   Thu Sep 3 15:45:22 2026 +0545
+
+    Env file
+
+[33mcommit 3444c052af6dfb27c241dc1f363ec0949f7e7722[m
+Author: Sagar Adhikari <adhikarisagar268@gmail.com>
+Date:   Thu Sep 3 15:13:48 2026 +0545
+
+    Add Git Pull example paragraph to index.html
+
+[33mcommit dd849795af037e658cbe6b9172f26d4dda3fbf7d[m
+Author: LearningGit <adhikarisagar268@gmail.com>
+Date:   Thu Sep 3 15:06:56 2026 +0545
+
+    Add Green
+
+[33mcommit 6dfd3736b03c5e7558221403e914c373bbb0b91d[m
+Author: LearningGit <adhikarisagar268@gmail.com>
+Date:   Thu Sep 3 14:46:36 2026 +0545
+
+    add color p
+
+[33mcommit 72ab78ccd1ff3ed28f01fa8dd5f29d5af1d9c1dc[m
+Author: LearningGit <adhikarisagar268@gmail.com>
+Date:   Thu Sep 3 14:33:33 2026 +0545
+
+    Color text
+
+[33mcommit e14c4b51d82917ec2dcf05bc2e8aa8fa213e4c26[m
+Author: LearningGit <adhikarisagar268@gmail.com>
+Date:   Wed Sep 2 23:53:37 2026 +0545
+
+    Just Website Intro
+
+[33mcommit faa2e2abfbf467731854875da9dbf4c627c261ac[m
+Author: LearningGit <adhikarisagar268@gmail.com>
+Date:   Wed Sep 2 16:25:00 2026 +0545
+
+    Fixed subfolder issue and added files
